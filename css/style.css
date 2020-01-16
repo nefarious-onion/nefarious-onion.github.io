@@ -4,7 +4,7 @@ body {
   font-size: 15px;
   line-height: 1.8;
   color: #b3b3b3;
-  background: #fff;
+  background: #057453;
 }
 
 a {
@@ -12,10 +12,12 @@ a {
   -o-transition: .3s all ease;
   transition: .3s all ease;
   text-decoration: none;
+  color: darkviolet;
 }
 
 a:hover {
   text-decoration: none;
+  color: #000;
 }
 
 h1, h2, h3, h4, h5 {
